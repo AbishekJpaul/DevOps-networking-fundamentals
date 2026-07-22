@@ -24,13 +24,12 @@ IPv4 consists of 32 bits divided into four octets.
 
 Each octet ranges from:
 
-0 - 255  | 0-255 | 0-255 | 0-255 |
-   8bits   8bits   8bits   8bits
+|0 - 255  | 0-255 | 0-255 | 0-255 |
+|  8bits  | 8bits | 8bits |  8bits|
 
 ### Example:
 
-192 = 128 + 64
-      2^7   2^6
+192 = 128(2^7) + 64(2^6)
 
 
 # CIDR 
