@@ -2,7 +2,7 @@
 
 A network is a collection of devices connected together to communicate and share resources such as files, printers, and internet access.
 
-###Examples of devices in a network:
+### Examples of devices in a network:
 
 * Computers
 * Servers
