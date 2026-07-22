@@ -25,6 +25,7 @@ IPv4 consists of 32 bits divided into four octets.
 Each octet ranges from:
 
 |0 - 255  | 0-255 | 0-255 | 0-255 |
+|---------|-------|-------|-------|
 |  8bits  | 8bits | 8bits |  8bits|
 
 ### Example:
